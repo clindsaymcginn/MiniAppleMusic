@@ -190,6 +190,24 @@ nav li li {
 	float: left;
 	width: 300px;
 }
+.address {
+	padding-top: 15px;
+	font-style: normal;
+	}
+	
+.address p {
+	margin: 0;	
+}
+
+.address a {
+	font-size: 1.25em;
+	color: #FF0066;
+	text-decoration: none;
+	}
+.address em {
+	font-style: normal;
+	font-size: .75em;
+	}
 
 footer {
 	text-align: center;

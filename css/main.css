@@ -121,6 +121,8 @@ h3 {
 	border-top: 2px solid #f1ff54;
 }
 
+h4 {margin-bottom: 3px;}
+
 img {
 	max-width: 100%;
 
@@ -195,7 +197,7 @@ nav li li {
 	font-style: normal;
 	}
 	
-.address p {
+p {
 	margin: 0;	
 }
 
@@ -210,6 +212,7 @@ nav li li {
 	}
 
 footer {
+	padding-top: 300px;
 	text-align: center;
 	clear: both;
 }

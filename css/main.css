@@ -190,6 +190,7 @@ nav li li {
 
 .sidebar {
 	float: left;
+	position: fixed;
 	width: 300px;
 }
 .address {
